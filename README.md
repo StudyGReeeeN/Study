@@ -1,2 +1,11 @@
-# Study
 Study
+=====
+
+Study
+
+
+License
+-------
+
+MIT License
+
